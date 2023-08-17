@@ -10,4 +10,5 @@ git --oneline
 git --oneline --pretty
 git config --global user.name "ur name"
 git config --global user.email "email id"
+git checkout -b
 
